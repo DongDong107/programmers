@@ -2,6 +2,10 @@ package Level1;
 
 import java.util.Arrays;
 
+/*
+* 2023 12 13 첫풀이 틀림 다시풀어야함.
+*
+*/
 public class 공원산책 {
     public static void main(String[] args) {
         String[] park = {"OSO","OOO","OXO","OOO"};
